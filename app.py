@@ -4,8 +4,8 @@ def add(*a):
 def sub(a,b):
     return a-b
 
-def div(p,q):
-    return p/q
+def div(a,b):
+    return a/b
 
 
 if __name__ == "__main__":
